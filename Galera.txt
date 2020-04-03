@@ -1,9 +1,1 @@
-Jilo
-bubu
-will
-biel
-batata
-mili
-rick
-jubas
-Andre
+Novo arquivo do curso de git, add commit como branch
